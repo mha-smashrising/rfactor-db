@@ -2,7 +2,7 @@
     {
         "id": "U_146_all_might",
         "skill": "https://raw.githubusercontent.com/mha-smashrising/rfactor-db/master/assets/logo_skill_U.png",
-        "cardType": "Ult",
+        "cardType": "Ultimate Skill",
         "cardImage": "https://raw.githubusercontent.com/mha-smashrising/rfactor-db/master/assets/U_146_all_might.jpg",
         "rarity": 5,
         "character": "All Might",
